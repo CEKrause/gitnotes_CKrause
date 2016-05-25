@@ -1,1 +1,3 @@
 my first git
+changed text
+Testing with editing from nano
